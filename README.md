@@ -19,7 +19,7 @@ This website requires no installation. Click link to open webpage: [https://mads
 
 Use this website as a way to create secure passwords for numerous reasons. This could include creating banking passwords, social media passwords, etc.
 
-![Password Generator Webpage 1]((https://user-images.githubusercontent.com/98136587/157998869-5e0a15e8-2104-41cc-a1ce-fbd0749e6f5b.png)
+![Password Generator Webpage 1](https://user-images.githubusercontent.com/98136587/157998869-5e0a15e8-2104-41cc-a1ce-fbd0749e6f5b.png)
 ![Password Generator Webpage 2](https://user-images.githubusercontent.com/98136587/157998902-f4415eb5-b6ca-4385-a862-eb77ff183e5c.png)
 
 
