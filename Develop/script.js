@@ -18,7 +18,14 @@ function generatePassword() {
   var results="";
   var numberOfCharacters = window.prompt("How many characters would you like your password to contain?");
   var characterQuantity = parseInt(numberOfCharacters);
-  if(characterQuantity>= 8 && characterQuantity <= 128) {
+  // if(characterQuantity>= 8 && characterQuantity <= 128) {
+    while(characterQuantity< 8 || characterQuantity > 128) {
+      alert("Enter correct character count.");
+      numberOfCharacters = window.prompt("How many characters would you like your password to contain?");
+      characterQuantity = parseInt(numberOfCharacters);
+
+    }
+    
     var upperCase = window.confirm("Click OK to confirm uppercase letters.");
     var lowerCase = window.confirm("Click OK to confirm lowercase letters.");
     var numeric = window.confirm("Click OK to confirm including numeric characters.");
@@ -37,7 +44,9 @@ function generatePassword() {
       // results+=arrayNumeric[Math.floor(Math.random()*10)];
       // results+=arraySpecialCharacter[Math.floor(Math.random()*10)];
     }
-  } 
+  // } else {
+  //   alert("Please enter a number between 8 and 128.");
+  // }
     return results;
 }
 
