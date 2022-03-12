@@ -1,7 +1,7 @@
 # Password Generator Starter Code
 
 ## Description
-
+This website will allow you to generate your own unqiue, secure password. When prompted, you may select creating a password between 8 and 128 characters. You may choose whether this password contains lowercase, uppercase, numbers, or special characters.
 
 
 ## Table of Contents
@@ -13,14 +13,14 @@
 
 ## Installation
 
-This website requires no installation. Click link to open webpage: [https://madstoddard.github.io/urban-octo-telegram/](Password Generator)
+This website requires no installation. Click link to open webpage: [https://madstoddard.github.io/friendly-parakeet/](Password Generator)
 
 ## Usage
 
-Use this website as a guide to gather more information about Horiseon as a company and what it can do to help your buisness, including an increase in profit margin.
+Use this website as a way to create secure passwords for numerous reasons. This could include creating banking passwords, social media passwords, etc.
 
-![Horiseon Webpage 1](https://user-images.githubusercontent.com/98136587/155444935-ee7f3246-c3cb-4237-baed-a526ced205c4.png)
-![Horiseon Webpage 2](https://user-images.githubusercontent.com/98136587/155445068-8c388f04-3ce0-4b6e-a5a4-375fb9a1df2d.png)
+![Password Generator Webpage 1]((https://user-images.githubusercontent.com/98136587/157998869-5e0a15e8-2104-41cc-a1ce-fbd0749e6f5b.png))
+![Password Generator Webpage 2](https://user-images.githubusercontent.com/98136587/157998902-f4415eb5-b6ca-4385-a862-eb77ff183e5c.png)
 
 
 ## Credits
